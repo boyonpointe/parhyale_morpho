@@ -1,9 +1,8 @@
 # parhyale_morpho
 Codes and data related to parhyale morphogenesis project lead by Beatrice Steinert of the Extavour lab at Harvard University. </br>
-![Description](github_thumbnail.svg)
 
 <p align="center">
-  <img src="github_thumbnail.svg" alt="Description" width="400">
+  <img src="github_thumbnail.svg" alt="Description" width="600">
 </p>
 
 Codes related to analysis of the cell shapes and plots resulting from the analysis are contained in the Jupyter notebook ```BS_CK_Consolidated.ipynb``` </br>
