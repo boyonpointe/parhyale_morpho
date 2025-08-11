@@ -18,7 +18,11 @@ codes to run. </br>
 created using Compucell3D Version="4.5.0". Compucell3D is freely available for download at https://compucell3d.org/ </br>
 
 ## Files related to cell tracking 
+The following files contain cell lineage tracks for three Parhyale hawaiensis 
+embryos (WT1, WT2, WT3) that were imaged on a SiMView multiview lightsheet microscope from 9 to 70-74 hours post fertilization. Cells were tracked using both nuclear and membrane channels with the ImageJ plugins MaMuT (WT1_whole_embryo.xml, WT_03_2018_Er-El-Ep.xml) or Mastodon (WT2_whole_embryo.mastodon). MaMuT tracking files can be easily imported and converted into .mastodon files for further analysis with Mastodon. In the WT1 and WT2 tracking files the 6 lineage trees correspond to the 16-cell stage ectodermal blastomeres: Epl, Epr, Elp, Ela, Erp, and Era. </br>
+Opening each file for further cell tracking requires the accompanying .h5 image file and BigDataViewer .xml files, which must be kept together in the same directory. These files can be made available upon request. For further information about how these files were made see the Methods of [bioarchive link / DOI HERE]
 <ul>
+  
 <li>Lightsheet WT1 cell tracks: WT1_whole_embryo.xml </li>
 <li>Lightsheet WT2 cell tracks: WT2_whole_embryo.mastodon </li>
 <li>Lightsheet WT3 cell tracks: WT_03_2018_Er-El-Ep.xml </li>
@@ -33,9 +37,9 @@ created using Compucell3D Version="4.5.0". Compucell3D is freely available for d
 
 ## Supplementary Videos 
 <ol>
-  <li>[SI video 1] :  WT1_Movie34_LynGFP-in_9fps.avi</li>
-  <li>[SI video 2] : WT1_Movie37_H2BmCherry-in_9fps.avi</li>
-  <li>[SI video 3] : 16-cell_domain_stop-motion_animation.mp4</li>
-  <li>[SI video 4] : Midline_formation_movie.avi</li>
+  <li>SI video 1 :  WT1_Movie34_LynGFP-in_9fps.avi</li>
+  <li>SI video 2 : WT1_Movie37_H2BmCherry-in_9fps.avi</li>
+  <li>SI video 3 : 16-cell_domain_stop-motion_animation.mp4</li>
+  <li>SI video 4 : Midline_formation_movie.avi</li>
 </ol>
 
