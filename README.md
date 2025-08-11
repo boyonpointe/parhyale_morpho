@@ -26,8 +26,8 @@ created using Compucell3D Version="4.5.0". Compucell3D is freely available for d
 </ul>
 
 ### Tracking software documentation
-
-MaMuT: {\field{\*\fldinst{HYPERLINK "https://imagej.net/plugins/mamut/"}}{\fldrslt https://imagej.net/plugins/mamut/}}\
-
-Mastodon: {\field{\*\fldinst{HYPERLINK "https://imagej.net/plugins/mastodon"}}{\fldrslt https://imagej.net/plugins/mastodon}}}
+<ul>
+  <li> [MaMuT](https://imagej.net/plugins/mamut/)</li>
+  <li>[Mastodon](https://imagej.net/plugins/mastodon)</li>
+</ul>
 
