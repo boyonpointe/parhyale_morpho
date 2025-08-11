@@ -33,7 +33,7 @@ created using Compucell3D Version="4.5.0". Compucell3D is freely available for d
 
 ## Supplementary Videos 
 <ol>
-  <li>[SI video 1](WT1_Movie34_LynGFP-in_9fps.avi)</li>
+  <li>[SI video 1](/parhyale_morpho/edit/main/WT1_Movie34_LynGFP-in_9fps.avi)</li>
   <li>[SI video 2](WT1_Movie37_H2BmCherry-in_9fps.avi)</li>
   <li>[SI video 3](16-cell_domain_stop-motion_animation.mp4)</li>
   <li>[SI video 4](Midline_formation_movie.avi)</li>
