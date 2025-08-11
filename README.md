@@ -17,7 +17,14 @@ codes to run. </br>
 ```parhyale_hpf26.zip``` is the zipped <b>Compucell3D</b> project folder. It contains all the relevant files needed to run the Compucell3D simulations. The project was 
 created using Compucell3D Version="4.5.0". Compucell3D is freely available for download at https://compucell3d.org/ </br>
 
-## Tracking software documentation
+## Files related to cell tracking 
+<ul>
+<li>Lightsheet WT1 cell tracks: WT1_whole_embryo.xml </li>
+<li>Lightsheet WT2 cell tracks: WT2_whole_embryo.mastodon </li>
+<li>Lightsheet WT3 cell tracks: WT_03_2018_Er-El-Ep.xml </li>
+<li>Staging table for lightsheet datasets: PH_LIGHTSHEET_DATASET_TIMING-final.csv </li>
+</ul>
+### Tracking software documentation
 
 MaMuT: {\field{\*\fldinst{HYPERLINK "https://imagej.net/plugins/mamut/"}}{\fldrslt https://imagej.net/plugins/mamut/}}\
 
