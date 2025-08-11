@@ -24,6 +24,7 @@ created using Compucell3D Version="4.5.0". Compucell3D is freely available for d
 <li>Lightsheet WT3 cell tracks: WT_03_2018_Er-El-Ep.xml </li>
 <li>Staging table for lightsheet datasets: PH_LIGHTSHEET_DATASET_TIMING-final.csv </li>
 </ul>
+
 ### Tracking software documentation
 
 MaMuT: {\field{\*\fldinst{HYPERLINK "https://imagej.net/plugins/mamut/"}}{\fldrslt https://imagej.net/plugins/mamut/}}\
